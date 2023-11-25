@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joel Cecil</h1>
 <h3 align="center">A passionate developer with experience in full stack web development</h3>
 
-- 🔭 I’m a third year CSE student at **National Institute of Technology, Warangal**
+- 🔭 I’m a final year CSE student at **National Institute of Technology, Warangal**
 
 - 👨‍💻 Developer at **WSDC NITW**
 

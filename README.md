@@ -5,7 +5,7 @@
 
 - 👨‍💻 Developer at **WSDC NITW**
 
-- 🌱 Currently exploring **ML/AI and Data Science**
+- 🌱 Currently exploring **Machine Learning and Computer Vision**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

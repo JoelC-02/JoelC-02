@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Joel Cecil</h1>
-<h3 align="center">A passionate developer with experience in full stack web development</h3>
 
-- 🔭 I’m a final year CSE student at **National Institute of Technology, Warangal**
+- 🔭 I’m a passionate developer exploring Data Analytics and Machine Learning
+  
+- 🎓 BTech in Computer Science and Engineering at National Institute of Technology, Warangal
 
-- 👨‍💻 Developer at **WSDC NITW**
+- 👨‍💻 MTS at Oracle, India
 
-- 🌱 Currently exploring **Machine Learning and Computer Vision**
+- ⚡ Passionate about building innovative solutions and exploring new technologies
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
